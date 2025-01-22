@@ -2078,15 +2078,15 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #0d72ff;
+			color: #003b8e;
 		}
 
 		.icon.style2 {
-			color: #0d72ff;
+			color: #003b8e;
 		}
 
 		.icon.style3 {
-			color: #0d72ff;
+			color: #003b8e;
 		}
 
 /* Image */
@@ -2604,7 +2604,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #0d72ff;
+				color: #003b8e;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
